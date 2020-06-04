@@ -1,11 +1,11 @@
 import time
 from selenium import webdriver
-from Pages.Home.Edit_Password_Page import Change_Password
+from Pages.Home.Edit_Password_Page import ChangePassword
 import unittest
-from Pages.Home.Edit_Profile import Edit_Page
+from Pages.Home.Edit_Profile import EditPage
 
 
-class Edit_Password_Stress(unittest.TestCase):
+class EditPasswordStress(unittest.TestCase):
 
     Password = "12345678910"
     Email = "modyseka@gmail.com"
@@ -16,19 +16,19 @@ class Edit_Password_Stress(unittest.TestCase):
         Driver.get("https://www.spotify.com/eg-en//")
         Driver.maximize_window()
         Driver.implicitly_wait(5)
-        CP = Change_Password(Driver)
-        CP.Log_In_Change_Password(self.Email, self.Password)
-        CP.WaitForElement(CP.new_password)
-        CP.clear_current_password()
-        CP.clear_new_password()
-        CP.clear_repeat_password()
-        CP.enter_current_password(self.Password)
+        cp = ChangePassword(Driver)
+        cp.Log_In_Change_Password(self.Email, self.Password)
+        cp.wait_for_element(cp.new_password)
+        cp.clear_current_password()
+        cp.clear_new_password()
+        cp.clear_repeat_password()
+        cp.enter_current_password(self.Password)
         i = 0
         while(i<10000):
-         CP.enter_new_password("00")
-         CP.enter_repeat_password("00")
+         cp.enter_new_password("00")
+         cp.enter_repeat_password("00")
          i = i+1
-         # CP.click_save_password()
+         # cp.click_save_password()
         Driver.quit()
 
     def test_Stress_Password_2(self):
@@ -37,9 +37,9 @@ class Edit_Password_Stress(unittest.TestCase):
         Driver.get("https://www.spotify.com/eg-en//")
         Driver.maximize_window()
         Driver.implicitly_wait(5)
-        CP = Change_Password(Driver)
+        CP = ChangePassword(Driver)
         CP.Log_In_Change_Password(self.Email, self.Password)
-        CP.WaitForElement(CP.new_password)
+        CP.wait_for_element(CP.new_password)
         CP.clear_current_password()
         CP.clear_new_password()
         CP.clear_repeat_password()
@@ -58,13 +58,13 @@ class Edit_Password_Stress(unittest.TestCase):
         Driver.get("https://www.spotify.com/eg-en//")
         Driver.maximize_window()
         Driver.implicitly_wait(5)
-        EP = Edit_Page(Driver)
-        EP.Log_In_Edit(self.Email, self.Password)
+        EP = EditPage(Driver)
+        EP.log_in_edit(self.Email, self.Password)
         i = 0
         while(i<5000):
          EP.change_mobile("0")
          i = i+1
-        EP.clickSave()
+        EP.click_save()
         time.sleep(2)
         # Using sleep to can see what happened
         Driver.quit()

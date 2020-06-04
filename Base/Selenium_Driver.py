@@ -6,123 +6,125 @@ from selenium.common.exceptions import *
 from selenium.webdriver.support.select import Select
 from selenium.webdriver import ActionChains
 import time
-class SeleniumDriver():
 
-    def __init__(self, Driver):
-        self.Driver = Driver
 
-    def getByType(self, locatorType):
-        locatorType = locatorType.lower()
-        if locatorType == "id":
+class SeleniumDriver:
+
+    def __init__(self, driver):
+        self.Driver = driver
+
+    def get_by_type(self, locator_type):
+        locator_type = locator_type.lower()
+        if locator_type == "id":
             return By.ID
-        elif locatorType == "name":
+        elif locator_type == "name":
             return By.NAME
-        elif locatorType == "xpath":
+        elif locator_type == "xpath":
             return By.XPATH
-        elif locatorType == "css":
+        elif locator_type == "css":
             return By.CSS_SELECTOR
-        elif locatorType == "class":
+        elif locator_type == "class":
             return By.CLASS_NAME
-        elif locatorType == "link":
+        elif locator_type == "link":
             return By.LINK_TEXT
         else:
-            print("Locator type " + locatorType + " not correct/supported")
+            print("Locator type " + locator_type + " not correct/supported")
         return False
 
-    def GetElement(self, locator, locatorType="id"):
+    def get_element(self, locator, locator_type="id"):
         element = None
         try:
-            locatorType = locatorType.lower()
-            byType = self.getByType(locatorType)
-            element = self.Driver.find_element(byType, locator)
-            print("Element Found with locator: " + locator + " and  locatorType: " + locatorType)
+            locator_type = locator_type.lower()
+            by_type = self.get_by_type(locator_type)
+            element = self.Driver.find_element(by_type, locator)
+            print("Element Found with locator: " + locator + " and  locator_type: " + locator_type)
         except:
-            print("Element not found with locator: " + locator + " and  locatorType: " + locatorType)
+            print("Element not found with locator: " + locator + " and  locator_type: " + locator_type)
         return element
 
-    def ElementClick(self, locator, locatorType="id"):
+    def element_click(self, locator, locator_type="id"):
         try:
-            element = self.GetElement(locator, locatorType)
+            element = self.get_element(locator, locator_type)
             element.click()
-            print("Clicked on element with locator: " + locator + " locatorType: " + locatorType)
+            print("Clicked on element with locator: " + locator + " locator_type: " + locator_type)
         except:
-            print("Cannot click on the element with locator: " + locator + " locatorType: " + locatorType)
+            print("Cannot click on the element with locator: " + locator + " locator_type: " + locator_type)
             print_stack()
 
-    def SendKeys(self, data, locator, locatorType="id"):
+    def send_keys(self, data, locator, locator_type="id"):
         try:
-            element = self.GetElement(locator, locatorType)
+            element = self.get_element(locator, locator_type)
             element.send_keys(data)
-            print("Sent data on element with locator: " + locator + " locatorType: " + locatorType)
+            print("Sent data on element with locator: " + locator + " locator_type: " + locator_type)
         except:
             print("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+                  " locator_type: " + locator_type)
             print_stack()
 
-    def Hover_song(self, locator, locatorType="xpath", button=""):
+    def hover_song(self, locator, locator_type="xpath", button=""):
         try:
-            self.WaitForElement(locator, locatorType)
-            element = self.GetElement(locator, locatorType)
-            itemToClickLocator = button
+            self.wait_for_element(locator, locator_type)
+            element = self.get_element(locator, locator_type)
+            item_to_click_locator = button
             actions = ActionChains(self.Driver)
             actions.move_to_element(element).perform()
             print("Mouse Hovered on element")
-            song = self.Driver.find_element(By.XPATH, itemToClickLocator)
+            song = self.Driver.find_element(By.XPATH, item_to_click_locator)
             actions.move_to_element(song).click().perform()
         except:
             print("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+                  " locator_type: " + locator_type)
             print_stack()
 
-    def Hover(self, locator, locatorType="xpath" ):
+    def hover(self, locator, locator_type="xpath"):
         try:
             time.sleep(2)
-            # self.WaitForElement(locator, locatorType)
-            element = self.GetElement(locator, locatorType)
+            # self.wait_for_element(locator, locator_type)
+            element = self.get_element(locator, locator_type)
             actions = ActionChains(self.Driver)
             actions.move_to_element(element).click().perform()
             print("Mouse Hovered on element")
         except:
             print("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+                  " locator_type: " + locator_type)
             print_stack()
 
-    def Hover_Listed_Song(self, locator, locatorType="xpath"):
+    def hover_listed_song(self, locator, locator_type="xpath"):
         try:
-            self.WaitForElement(locator, locatorType)
-            element = self.GetElement(locator, locatorType)
+            self.wait_for_element(locator, locator_type)
+            element = self.get_element(locator, locator_type)
             actions = ActionChains(self.Driver)
             actions.move_to_element(element).double_click(element).perform()
             print("Mouse Hovered on element")
         except:
             print("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+                  " locator_type: " + locator_type)
             print_stack()
 
-    def SelectItem(self, data, locator, locatorType="id"):
+    def select_item(self, data, locator, locator_type="id"):
         try:
-            element = self.GetElement(locator, locatorType)
+            element = self.get_element(locator, locator_type)
             item = Select(element)
             item.select_by_visible_text(data)
-            print("Sent data on element with locator: " + locator + " locatorType: " + locatorType)
+            print("Sent data on element with locator: " + locator + " locator_type: " + locator_type)
         except:
             print("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+                  " locator_type: " + locator_type)
             # print_stack()
 
-    def Clears(self, locator, locatorType="id"):
+    def clears(self, locator, locator_type="id"):
         try:
-            element = self.GetElement(locator, locatorType)
+            element = self.get_element(locator, locator_type)
             element.clear()
-            print("claer data from element with locator: " + locator + " locatorType: " + locatorType)
+            print("claer data from element with locator: " + locator + " locator_type: " + locator_type)
         except:
-             print("Cannot claer data from the element with locator: " + locator +
-                   " locatorType: " + locatorType)
-            # print_stack()
+            print("Cannot claer data from the element with locator: " + locator +
+                  " locator_type: " + locator_type)
+        # print_stack()
 
-    def isElementPresent(self, locator, locatorType="id"):
+    def is_element_present(self, locator, locator_type="id"):
         try:
-            element = self.GetElement(locator, locatorType)
+            element = self.get_element(locator, locator_type)
             if element is not None:
                 print("Element Found")
                 return True
@@ -133,10 +135,10 @@ class SeleniumDriver():
             print("Element not found")
             return False
 
-    def elementPresenceCheck(self, locator, byType):
+    def element_presence_check(self, locator, by_type):
         try:
-            elementList = self.Driver.find_elements(byType, locator)
-            if len(elementList) > 0:
+            element_list = self.Driver.find_elements(by_type, locator)
+            if len(element_list) > 0:
                 print("Element Found")
                 return True
             else:
@@ -146,18 +148,18 @@ class SeleniumDriver():
             print("Element not found")
             return False
 
-    def WaitForElement(self, locator, locatorType="id",
-                       timeout=15, pollFrequency=0.5):
+    def wait_for_element(self, locator, locator_type="id",
+                         timeout=15, poll_frequency=0.5):
         element = None
         try:
-            byType = self.getByType(locatorType)
+            by_type = self.get_by_type(locator_type)
             print("Waiting for maximum :: " + str(timeout) +
                   " :: seconds for element to be clickable")
-            wait = WebDriverWait(self.Driver, timeout, poll_frequency=pollFrequency,
+            wait = WebDriverWait(self.Driver, timeout, poll_frequency=poll_frequency,
                                  ignored_exceptions=[NoSuchElementException,
                                                      ElementNotVisibleException,
                                                      ElementNotSelectableException])
-            element = wait.until(EC.element_to_be_clickable((byType, locator)))
+            element = wait.until(EC.element_to_be_clickable((by_type, locator)))
             print("Element appeared on the web page")
         except:
             print("Element not appeared on the web page")

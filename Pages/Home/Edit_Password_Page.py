@@ -1,11 +1,12 @@
 from Base.Selenium_Driver import SeleniumDriver
 import time
 
-class Change_Password(SeleniumDriver):
 
-    def __init__(self, Driver):
-        # super().__init__(Driver)
-        self.Driver =Driver
+class ChangePassword(SeleniumDriver):
+
+    def __init__(self, driver):
+        # super().__init__(driver)
+        self.Driver = driver
 
     # Locators Used in test
 
@@ -16,31 +17,31 @@ class Change_Password(SeleniumDriver):
     cancel_password = "Cancel"  # link
 
     def enter_current_password(self, password):
-        self.SendKeys(password, self.current_password)
+        self.send_keys(password, self.current_password)
 
     def enter_new_password(self, newpassword):
-        self.SendKeys(newpassword, self.new_password)
+        self.send_keys(newpassword, self.new_password)
 
     def enter_repeat_password(self, newpassword):
-        self.SendKeys(newpassword, self.repeat_new_password)
+        self.send_keys(newpassword, self.repeat_new_password)
 
     def clear_current_password(self):
-        self.Clears(self.current_password)
+        self.clears(self.current_password)
 
     def clear_new_password(self):
-        self.Clears(self.new_password)
+        self.clears(self.new_password)
 
     def clear_repeat_password(self):
-        self.Clears(self.repeat_new_password)
+        self.clears(self.repeat_new_password)
 
     def click_save_password(self):
-        self.ElementClick(self.set_new_password)
+        self.element_click(self.set_new_password)
 
     def click_cancel_password(self):
-        self.ElementClick(self.cancel_password, "link")
+        self.element_click(self.cancel_password, "link")
 
     def change_password(self, password, new_password, repeat):
-        # self.WaitForElement(self.new_password)
+        # self.wait_for_element(self.new_password)
         time.sleep(1)
         self.clear_current_password()
         self.clear_new_password()

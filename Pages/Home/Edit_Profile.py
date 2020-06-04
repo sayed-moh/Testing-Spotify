@@ -1,16 +1,17 @@
 from Base.Selenium_Driver import SeleniumDriver
 import time
 
-class Edit_Page(SeleniumDriver):
-    def __init__(self, Driver):
-        # super().__init__(Driver)
-        self.Driver =Driver
 
-    Loginlink = "Log In"
-    emailfield = "login-username"
-    passwordfield = "login-password"  # link
-    loginbutton = "login-button"
-    Editprofile = "Edit profile"  # link
+class EditPage(SeleniumDriver):
+    def __init__(self, driver):
+        # super().__init__(driver)
+        self.Driver = driver
+
+    login_link = "Log In"
+    email_field = "login-username"
+    password_field = "login-password"  # link
+    login_button = "login-button"
+    Edit_profile = "Edit profile"  # link
     gender = "profile_gender"  # id
     Months = "profile_birthdate_month"  # id
     Days = "profile_birthdate_day"  # id
@@ -22,168 +23,164 @@ class Edit_Page(SeleniumDriver):
     Profile_Email = "profile_email"  # id
     menu = "svelte-kdyqkb"
     logout = "Log Out"
-    Remember_me ="control-indicator"
-    Facebook_Button = "btn-facebook"
-    Facebook_Username = "email"
-    Facebook_Password = "pass"
-    Facebook_Login = "loginbutton"
+    remember_me = "control-indicator"
+    facebook_button = "btn-facebook"
+    facebook_username = "email"
+    facebook_password = "pass"
+    facebook_login = "login_button"
 
+    def enter_email(self, email):
+        self.send_keys(email, self.email_field)
 
-    def entereamil(self, email):
-         self.SendKeys(email, self.emailfield)
-
-    def enterpassword(self, password):
-         self.SendKeys(password, self.passwordfield)
+    def enter_password(self, password):
+        self.send_keys(password, self.password_field)
 
     def enter_confirm_password(self, password):
-        self.SendKeys(password, self.confirm_password)
+        self.send_keys(password, self.confirm_password)
 
+    def click_login_link(self):
+        self.element_click(self.login_link, "link")
 
-    def clickloginlink(self):
-         self.ElementClick(self.Loginlink, "link")
+    def click_remember(self):
+        self.element_click(self.remember_me, "class")
 
-    def clickremember(self):
-        self.ElementClick(self.Remember_me, "class")
+    def click_login_button(self):
+        self.element_click(self.login_button)
 
-    def clickloginbutton(self):
-         self.ElementClick(self.loginbutton)
+    def click_edit_profile(self):
+        self.element_click(self.Edit_profile, "link")
 
-    def Click_Edit_Profile(self):
-        self.ElementClick(self.Editprofile, "link")
-
-    def change_mobile(self,data):
-        self.SendKeys(data, self.mobile)
+    def change_mobile(self, data):
+        self.send_keys(data, self.mobile)
 
     def change_monthes(self, data):
-        self.SelectItem(data, self.Months)
+        self.select_item(data, self.Months)
 
-    def chanege_days(self, data):
-        self.SelectItem(data, self.Days)
+    def change_days(self, data):
+        self.select_item(data, self.Days)
 
     def change_years(self, data):
-        self.SelectItem(data, self.Years)
+        self.select_item(data, self.Years)
 
     def change_email(self, email):
-         self.SendKeys(email, self.Profile_Email)
+        self.send_keys(email, self.Profile_Email)
 
     def change_gender(self, data):
-        self.SelectItem(data, self.gender)
+        self.select_item(data, self.gender)
 
-    def clickmenu(self):
-        self.ElementClick(self.menu, "class")
+    def click_menu(self):
+        self.element_click(self.menu, "class")
 
-    def clicklogout(self):
+    def click_logout(self):
         time.sleep(1.5)
-        self.ElementClick(self.logout, "link")
+        self.element_click(self.logout, "link")
 
-    def clickSave(self):
-        self.ElementClick(self.save_profile)
+    def click_save(self):
+        self.element_click(self.save_profile)
 
-    def click_Cancel(self):
-        self.ElementClick(self.cancel)
+    def click_cancel(self):
+        self.element_click(self.cancel)
 
-    def Click_Facebook_Button(self):
-        self.ElementClick(self.Facebook_Button, "class")
+    def click_facebook_button(self):
+        self.element_click(self.facebook_button, "class")
 
-    def Click_Facebook_Login(self):
-        self.ElementClick(self.Facebook_Login)
+    def click_facebook_login(self):
+        self.element_click(self.facebook_login)
 
-    def Enter_Facebook_Username(self, email):
-        self.SendKeys(email, self.Facebook_Username)
+    def enter_facebook_username(self, email):
+        self.send_keys(email, self.facebook_username)
 
-    def Enter_Facebook_Password(self, password):
-        self.SendKeys(password, self.Facebook_Password)
-
+    def enter_facebook_password(self, password):
+        self.send_keys(password, self.facebook_password)
 
     def clear_email(self):
-        self.Clears(self.emailfield)
+        self.clears(self.email_field)
 
     def clear_password(self):
-        self.Clears(self.confirm_password)
+        self.clears(self.confirm_password)
 
     def clear_mobile(self):
-        self.Clears(self.mobile)
+        self.clears(self.mobile)
 
     def clear_change_email(self):
-        self.Clears(self.Profile_Email)
+        self.clears(self.Profile_Email)
 
-    def Log_In_Edit(self, email, password):
+    def log_in_edit(self, email, password):
         time.sleep(1)
-        self.clickloginlink()
+        self.click_login_link()
         time.sleep(1)
-        self.entereamil(email)
-        self.enterpassword(password)
-        self.clickremember()
-        self.clickloginbutton()
+        self.enter_email(email)
+        self.enter_password(password)
+        self.click_remember()
+        self.click_login_button()
         time.sleep(1)
-        self.Click_Edit_Profile()
+        self.click_edit_profile()
 
-    def Logout_Edit(self):
-        self.clickmenu()
-        self.clicklogout()
+    def logout_edit(self):
+        self.click_menu()
+        self.click_logout()
 
-
-    def Change_Mobile_No(self, newmobile):
+    def change_mobile_no(self, new_mobile):
         time.sleep(1.5)
         self.clear_mobile()
-        self.SendKeys(newmobile, self.mobile)
-        self.clickSave()
+        self.send_keys(new_mobile, self.mobile)
+        self.click_save()
 
-    def Change_Day(self, Day):
+    def change_day(self, day):
         time.sleep(2)
-        self.SelectItem(Day, self.Days)
-        self.clickSave()
+        self.select_item(day, self.Days)
+        self.click_save()
 
-    def Change_Month(self, Month):
+    def change_month(self, month):
         time.sleep(1.5)
-        self.SelectItem(Month, self.Months)
-        self.clickSave()
+        self.select_item(month, self.Months)
+        self.click_save()
 
-    def Change_Year(self, Year):
+    def change_year(self, year):
         time.sleep(1)
-        self.SelectItem(Year, self.Years)
-        self.clickSave()
+        self.select_item(year, self.Years)
+        self.click_save()
 
-    def Change_Gender(self, gender):
+    def change_gender1(self, gender):
         time.sleep(2)
         self.change_gender(gender)
-        self.clickSave()
+        self.click_save()
 
-    def Change_Brith_date(self, Day, Month, Year):
+    def change_birth_date(self, day, month, year):
         time.sleep(2)
-        self.SelectItem(Day, self.Days)
-        self.SelectItem(Month, self.Months)
-        self.SelectItem(Year, self.Years)
-        self.clickSave()
+        self.select_item(day, self.Days)
+        self.select_item(month, self.Months)
+        self.select_item(year, self.Years)
+        self.click_save()
 
-    def Change_Email(self, Password, New_email):
+    def change_email1(self, password, new_email):
         time.sleep(2)
         self.clear_change_email()
         self.clear_password()
-        self.change_email(New_email)
-        self.enter_confirm_password(Password)
-        self.clickSave()
+        self.change_email(new_email)
+        self.enter_confirm_password(password)
+        self.click_save()
 
-    def Change_All(self, New_Email, Password, Gender, Day, Month, Year, New_Mobile):
+    def change_all(self, new_email, password, gender, day, month, year, new_mobile):
         time.sleep(1)
         self.clear_change_email()
         self.clear_password()
-        self.change_email(New_Email)
-        self.enter_confirm_password(Password)
-        self.change_gender(Gender)
-        self.SelectItem(Day, self.Days)
-        self.SelectItem(Month, self.Months)
-        self.SelectItem(Year, self.Years)
+        self.change_email(new_email)
+        self.enter_confirm_password(password)
+        self.change_gender(gender)
+        self.select_item(day, self.Days)
+        self.select_item(month, self.Months)
+        self.select_item(year, self.Years)
         self.clear_mobile()
-        self.SendKeys(New_Mobile, self.mobile)
-        self.clickSave()
+        self.send_keys(new_mobile, self.mobile)
+        self.click_save()
 
-    def Login_Facebook_Edit(self, Username, Password):
-        self.clickloginlink()
+    def login_facebook_edit(self, username, password):
+        self.click_login_link()
         time.sleep(1)
-        self.Click_Facebook_Button()
-        self.Enter_Facebook_Username(Username)
-        self.Enter_Facebook_Password(Password)
-        self.Click_Facebook_Login()
+        self.click_facebook_button()
+        self.enter_facebook_username(username)
+        self.enter_facebook_password(password)
+        self.click_facebook_login()
         time.sleep(4)
-        self.Click_Edit_Profile()
+        self.click_edit_profile()

@@ -1,10 +1,11 @@
 from Base.Selenium_Driver import SeleniumDriver
 import time
 
-class Log_in_Page(SeleniumDriver):
-    def __init__(self, Driver):
+
+class LogInPage(SeleniumDriver):
+    def __init__(self, driver):
         # super().__init__(driver)
-        self.Driver =Driver
+        self.Driver = driver
 
         # Locators Used in test
 
@@ -18,60 +19,58 @@ class Log_in_Page(SeleniumDriver):
     Spotify = "svelte-1gcdbl9"  # class
     web_player_button = "segmented-desktop-launch"
 
+    def enter_email(self, email):
+        self.send_keys(email, self.emailfield)
 
+    def enter_password(self, password):
+        self.send_keys(password, self.passwordfield)
 
-    def entereamil(self, email):
-        self.SendKeys(email, self.emailfield)
+    def click_login_link(self):
+        self.element_click(self.Loginlink, "link")
 
-    def enterpassword(self, password):
-        self.SendKeys(password, self.passwordfield)
+    def click_login_button(self):
+        self.element_click(self.loginbutton)
 
-    def clickloginlink(self):
-        self.ElementClick(self.Loginlink, "link")
-
-    def clickloginbutton(self):
-        self.ElementClick(self.loginbutton)
-
-    def clickremember(self):
-        self.ElementClick(self.Remember_me, "class")
+    def click_remember(self):
+        self.element_click(self.Remember_me, "class")
 
     def click_on_spotify(self):
-         self.ElementClick(self.Spotify, "class")
+        self.element_click(self.Spotify, "class")
 
     def click_on_web_player(self):
-         self.ElementClick(self.web_player_button)
+        self.element_click(self.web_player_button)
 
-    def Click_Edit_Profile(self):
-        self.ElementClick(self.Editprofile, "link")
+    def click_edit_profile(self):
+        self.element_click(self.Editprofile, "link")
 
-    def Login_Edit(self, email, password):
+    def login_edit(self, email, password):
         time.sleep(1)
-        self.clickloginlink()
+        self.click_login_link()
         time.sleep(1)
-        self.entereamil(email)
-        self.enterpassword(password)
-        self.clickremember()
-        self.clickloginbutton()
+        self.enter_email(email)
+        self.enter_password(password)
+        self.click_remember()
+        self.click_login_button()
         time.sleep(1)
-        self.Click_Edit_Profile()
+        self.click_edit_profile()
 
-    def Login_Password(self, username, password):
+    def login_password(self, username, password):
         time.sleep(3)
-        self.clickloginlink()
+        self.click_login_link()
         time.sleep(1)
-        self.entereamil(username)
-        self.enterpassword(password)
-        self.clickloginbutton()
+        self.enter_email(username)
+        self.enter_password(password)
+        self.click_login_button()
         time.sleep(2)
-        self.Hover(self.Change_Password, "link")
+        self.hover(self.Change_Password, "link")
 
-    def Login_Webpalyer(self, username, password):
+    def login_webpalyer(self, username, password):
         time.sleep(3)
-        self.clickloginlink()
+        self.click_login_link()
         time.sleep(1)
-        self.entereamil(username)
-        self.enterpassword(password)
-        self.clickloginbutton()
+        self.enter_email(username)
+        self.enter_password(password)
+        self.click_login_button()
         time.sleep(2)
         self.click_on_spotify()
         time.sleep(1)

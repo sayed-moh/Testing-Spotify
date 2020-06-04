@@ -1,17 +1,17 @@
 from Base.Selenium_Driver import SeleniumDriver
 import time
 
+
 class Like_Follow(SeleniumDriver):
 
-    def __init__(self, Driver):
-        super().__init__(Driver)
-        self.driver = Driver
+    def __init__(self, driver):
+        super().__init__(driver)
+        self.driver = driver
 
         # Locators Used in test
 
-
-    Happy_Hits = "Happy Hits!" # link
-    Mood = "Mood Booster"# link
+    Happy_Hits = "Happy Hits!"  # link
+    Mood = "Mood Booster"  # link
     Mood_Song1 = "/html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li"
     Mood_Song2 = "/html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[2]/div/li"
     Mood_Song3 = "/html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[3]/div/li"
@@ -26,106 +26,98 @@ class Like_Follow(SeleniumDriver):
     Back = "/html/body/div[4]/div/div[2]/div[1]/header/div[2]/button[1]"
     Home = "Home"
 
+    def click_happy_hits(self):
+        self.element_click(self.Happy_Hits, "link")
 
-    def click_Happy_Hits(self):
-        self.ElementClick(self.Happy_Hits, "link")
+    def click_liked_list(self):
+        self.element_click(self.Liked_List, "link")
 
-    def click_Liked_List(self):
-        self.ElementClick(self.Liked_List, "link")
+    def click_on_playlist(self):
+        self.element_click(self.Playlist, "link")
 
-    def Click_On_Playlist(self):
-        self.ElementClick(self.Playlist, "link")
+    def click_artist(self):
+        self.element_click(self.Liked_List, "link")
 
-    def click_Artist(self):
-        self.ElementClick(self.Liked_List, "link")
+    def click_library(self):
+        self.element_click(self.Library, "Link")
 
-    def Click_Library(self):
-        self.ElementClick(self.Library, "Link")
+    def click_artists(self):
+        self.element_click(self.Your_Artist, "Link")
 
-    def Click_Artists(self):
-        self.ElementClick(self.Your_Artist, "Link")
+    def click_like(self):
+        self.element_click(self.Like, "xpath")
 
-    def Click_Like(self):
-        self.ElementClick(self.Like, "xpath")
+    def click_back(self):
+        self.element_click(self.Back, "xpath")
 
-    def Click_Back(self):
-        self.ElementClick(self.Back, "xpath")
-
-    def Click_Home(self):
-        self.ElementClick(self.Home, "link")
-
-
-
+    def click_home(self):
+        self.element_click(self.Home, "link")
 
     # all sleeps in the code to can see what happened and my internet is not good
-    def Like_Follow_Test(self):
+    def like_follow_test(self):
         time.sleep(4)
-        self.Click_On_Playlist()
-        self.Hover_Listed_Song(self.Song)
+        self.click_on_playlist()
+        self.hover_listed_song(self.Song)
         time.sleep(3)
-        self.Hover(self.Like)
+        self.hover(self.Like)
         time.sleep(1)
-        self.click_Liked_List()
+        self.click_liked_list()
         time.sleep(3)
-        self.Hover(self.Like)
+        self.hover(self.Like)
         time.sleep(1)
-        self.Hover(self.Like)
+        self.hover(self.Like)
         time.sleep(1)
-        self.Hover(self.Artist, "Link")
+        self.hover(self.Artist, "Link")
         time.sleep(1)
-        self.Hover(self.Follow)
+        self.hover(self.Follow)
         time.sleep(1)
-        self.Click_Library()
+        self.click_library()
         time.sleep(1)
-        self.Click_Artists()
+        self.click_artists()
         time.sleep(1)
-        self.Click_Back()
+        self.click_back()
         time.sleep(1)
-        self.Click_Back()
+        self.click_back()
         time.sleep(1)
-        self.Hover(self.Follow, "xpath")
+        self.hover(self.Follow, "xpath")
         time.sleep(1)
-        self.Click_Library()
+        self.click_library()
         time.sleep(1)
-        self.Click_Artists()
+        self.click_artists()
         time.sleep(1)
-        self.click_Liked_List()
+        self.click_liked_list()
         time.sleep(1)
-        self.Hover(self.Like)
+        self.hover(self.Like)
         time.sleep(1)
-        self.Click_Home()
+        self.click_home()
 
-
-    def Like_Test(self):
-       time.sleep(4)
-       self.Hover(self.Mood, "link")
-       self.Hover_Listed_Song(self.Mood_Song1)
-       time.sleep(3)
-       self.Hover(self.Like)
-       time.sleep(1)
-       self.Hover_Listed_Song(self.Mood_Song2)
-       time.sleep(3)
-       self.Hover(self.Like)
-       time.sleep(1)
-       self.Hover_Listed_Song(self.Mood_Song3)
-       time.sleep(3)
-       self.Hover(self.Like)
-       time.sleep(1)
-       self.click_Liked_List()
-       time.sleep(2)
-       self.Hover_Listed_Song(self.Mood_Song3)
-       time.sleep(3)
-       self.Hover(self.Like)
-       time.sleep(1)
-       self.Hover_Listed_Song(self.Mood_Song2)
-       time.sleep(3)
-       self.Hover(self.Like)
-       time.sleep(1)
-       self.Hover_Listed_Song(self.Mood_Song1)
-       time.sleep(3)
-       self.Hover(self.Like)
-       time.sleep(1)
-       self.Click_Home()
-
-
-
+    def like_test(self):
+        time.sleep(4)
+        self.hover(self.Mood, "link")
+        self.hover_listed_song(self.Mood_Song1)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.hover_listed_song(self.Mood_Song2)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.hover_listed_song(self.Mood_Song3)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.click_liked_list()
+        time.sleep(2)
+        self.hover_listed_song(self.Mood_Song3)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.hover_listed_song(self.Mood_Song2)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.hover_listed_song(self.Mood_Song1)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.click_home()
