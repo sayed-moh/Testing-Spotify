@@ -1,0 +1,1316 @@
+06/04/2020 08:09:21 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:09:21 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:09:23 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:09:23 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:09:23 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:09:23 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:09:23 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:09:23 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:09:25 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[2]/nav/ul/li[1]/a and  locator_type: xpath
+06/04/2020 08:09:25 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[2]/nav/ul/li[1]/a locator_type: xpath
+06/04/2020 08:09:26 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 08:09:26 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  locator_type: xpath
+06/04/2020 08:09:28 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 08:09:28 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 08:09:31 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 08:09:33 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 08:09:34 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 08:09:36 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 08:09:39 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 08:09:39 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 08:10:11 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:10:11 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:10:13 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:10:13 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:10:13 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:10:13 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:10:13 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:10:13 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:10:15 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[2]/nav/ul/li[1]/a and  locator_type: xpath
+06/04/2020 08:10:15 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[2]/nav/ul/li[1]/a locator_type: xpath
+06/04/2020 08:10:16 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 08:10:16 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  locator_type: xpath
+06/04/2020 08:10:18 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 08:10:18 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 08:10:21 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 08:10:23 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 08:10:24 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 08:10:27 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 08:10:30 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 08:10:30 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 08:10:59 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:10:59 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:11:01 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:11:01 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:11:01 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:11:02 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:11:02 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:11:02 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:11:03 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[2]/nav/ul/li[1]/a and  locator_type: xpath
+06/04/2020 08:11:03 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[2]/nav/ul/li[1]/a locator_type: xpath
+06/04/2020 08:11:04 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 08:11:05 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  locator_type: xpath
+06/04/2020 08:11:07 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 08:11:07 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 08:11:10 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 08:11:12 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 08:11:13 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 08:11:14 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 08:11:15 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 08:11:15 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 08:12:22 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:12:22 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:12:24 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:12:25 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:12:25 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:12:25 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:12:25 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:12:25 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:12:28 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 08:12:28 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 08:12:29 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 08:12:29 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[2]/div/div/div[4]  locator_type: xpath
+06/04/2020 08:12:31 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 08:12:31 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 08:12:34 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 08:12:36 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 08:12:37 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 08:12:39 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 08:12:42 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 08:12:42 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 08:15:17 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:15:17 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:15:19 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:15:19 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:15:19 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:15:19 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:15:19 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:15:19 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:15:21 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 08:15:22 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 08:15:23 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 08:15:23 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 08:15:23 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 08:15:23 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 08:15:28 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 08:15:28 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 08:15:29 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 08:15:30 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 08:15:31 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 08:15:31 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 08:17:20 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:17:20 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:17:22 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:17:22 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:17:22 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:17:22 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:17:22 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:17:22 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:17:23 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 08:17:24 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 08:17:25 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 08:17:25 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 08:17:25 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 08:17:25 AM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 08:17:30 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 08:17:30 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 08:17:31 AM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 08:17:34 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 08:17:37 AM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 08:17:37 AM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:09:18 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:09:18 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:09:20 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:09:20 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:09:20 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:09:20 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:09:20 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:09:20 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:09:22 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:09:22 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:09:22 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:09:22 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:09:24 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:09:24 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:09:26 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:09:26 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 09:09:28 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:09:28 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:09:29 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:09:29 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:09:30 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:09:30 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:09:32 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:09:32 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:09:46 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:09:46 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:09:48 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:09:48 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:09:48 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:09:48 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:09:48 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:09:48 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:09:50 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:09:50 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:09:50 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:09:50 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:09:51 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:09:51 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  locator_type: xpath
+06/04/2020 09:09:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:09:54 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:09:55 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:09:57 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:10:12 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:10:12 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:10:14 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:10:14 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:10:14 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:10:14 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:10:14 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:10:14 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:10:16 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:10:16 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:10:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:10:17 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:10:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:10:18 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 09:10:23 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:10:23 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:10:24 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:10:26 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:10:29 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:10:29 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:18:16 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:18:17 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:18:19 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:18:19 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:18:19 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:18:19 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:18:19 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:18:19 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:18:20 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:18:21 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:18:21 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:18:21 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:18:23 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:18:23 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:18:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:18:27 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:18:30 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:18:30 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:18:31 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:18:32 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:18:33 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:18:33 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:18:34 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:18:34 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:18:50 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:18:50 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:18:52 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:18:52 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:18:52 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:18:52 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:18:52 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:18:52 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:18:54 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:18:54 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:18:54 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:18:54 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:18:56 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:18:56 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:19:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:19:00 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:19:03 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:19:04 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:19:05 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:19:05 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:19:06 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:19:06 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:19:07 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:19:07 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:20:24 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:20:24 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:20:26 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:20:26 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:20:26 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:20:26 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:20:26 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:20:26 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:20:29 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:20:30 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:20:30 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:20:30 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:20:33 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:20:33 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:20:36 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:20:36 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:20:37 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:20:39 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:21:42 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:21:42 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:21:44 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:21:44 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:21:44 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:21:44 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:21:44 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:21:44 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:21:49 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:21:49 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:21:49 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:21:49 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:21:52 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:21:53 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:21:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:21:56 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:21:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:21:59 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:22:52 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:22:52 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:22:54 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:22:54 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:22:54 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:22:54 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:22:54 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:22:54 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:22:56 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:22:56 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:22:56 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:22:56 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:22:58 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:22:58 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:23:02 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:23:03 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:23:06 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:23:06 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:23:07 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:23:07 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:23:08 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:23:08 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:23:09 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:23:09 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:24:27 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:24:27 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:24:29 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:24:29 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:24:29 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:24:29 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:24:29 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:24:29 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:24:32 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:24:32 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:24:32 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:24:32 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:24:35 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:24:35 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:24:40 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:24:40 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:24:41 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:24:44 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:27:01 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:27:02 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:27:04 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:27:04 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:27:04 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:27:04 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:27:04 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:27:04 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:27:06 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:27:07 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:27:07 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:27:07 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:27:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:27:10 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:27:13 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:27:13 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:27:14 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:27:16 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:27:35 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:27:35 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:27:37 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:27:37 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:27:37 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:27:37 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:27:37 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:27:37 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:27:41 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:27:41 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:27:42 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:27:42 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:27:42 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:27:43 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 09:27:48 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:27:48 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:27:49 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:27:51 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:27:54 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:27:54 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:29:19 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:29:19 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:29:21 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:29:21 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:29:21 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:29:21 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:29:21 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:29:21 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:29:22 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:29:22 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:29:24 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:29:24 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:29:26 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:29:26 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:29:31 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:29:31 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:29:32 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:29:34 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:29:37 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:29:37 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:32:00 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:32:00 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:32:02 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:32:02 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:32:02 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:32:02 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:32:02 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:32:02 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:32:04 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:32:04 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:32:04 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:32:04 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:32:06 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:32:06 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:32:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:32:11 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:32:14 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:32:14 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:32:15 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:32:15 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:32:16 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:32:16 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:32:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:32:17 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:32:30 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:32:30 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:32:32 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:32:32 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:32:32 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:32:32 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:32:32 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:32:32 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:32:34 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:32:34 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:32:35 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/div/div/div[2]/button and  locator_type: xpath
+06/04/2020 09:32:35 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/div/div/div[2]/button locator_type: xpath
+06/04/2020 09:32:36 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/div/section/ol/div[1]/div/li/div[3]/button and  locator_type: xpath
+06/04/2020 09:32:36 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/div/section/ol/div[1]/div/li/div[3]/button locator_type: xpath
+06/04/2020 09:36:43 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:36:43 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:36:45 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:36:45 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:36:45 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:36:45 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:36:45 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:36:45 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:36:48 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:36:48 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:36:48 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:36:48 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:36:50 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:36:50 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:36:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:36:54 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:36:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:36:56 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:36:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:36:57 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:36:58 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:36:58 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:36:59 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:36:59 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:42:43 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:42:43 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:42:45 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:42:45 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:42:45 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:42:45 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:42:46 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:42:46 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:42:47 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:42:47 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:42:47 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:42:47 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:42:50 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:42:51 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:42:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:42:54 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:42:55 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:42:57 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:43:13 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:43:13 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:43:15 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:43:15 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:43:15 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:43:16 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:43:16 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:43:16 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:43:19 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:43:19 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:43:19 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:43:19 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:43:22 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:43:23 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:43:26 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:43:26 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:43:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:43:29 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:43:57 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:43:57 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:43:59 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:43:59 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:43:59 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:43:59 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:43:59 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:43:59 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:44:01 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:44:01 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:44:01 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:44:01 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:44:04 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:44:04 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:44:51 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:44:52 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:44:54 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:44:54 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:44:54 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:44:54 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:44:54 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:44:54 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:44:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:44:57 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:44:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:44:57 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:45:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:45:01 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:45:05 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:45:05 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:45:06 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:45:08 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:45:35 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:45:36 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:45:38 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:45:38 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:45:38 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:45:38 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:45:38 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:45:38 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:45:39 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:45:39 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:45:39 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:45:39 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:45:42 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:45:42 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:45:44 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 09:45:44 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 09:45:45 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 09:45:45 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 09:45:46 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:45:46 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:46:20 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:46:20 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:46:22 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:46:22 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:46:22 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:46:22 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:46:22 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:46:22 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:46:24 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:46:24 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:46:25 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:46:25 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:46:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:46:27 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:46:32 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button and  locator_type: xpath
+06/04/2020 09:46:32 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button locator_type: xpath
+06/04/2020 09:46:33 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:46:35 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:46:38 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:46:38 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:50:50 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:50:50 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:50:52 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:50:52 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:50:52 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:50:52 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:50:52 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:50:52 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:50:58 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:50:58 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:50:58 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:50:58 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:51:03 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 09:51:03 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li locator_type: xpath
+06/04/2020 09:51:08 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:51:08 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 09:51:09 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:51:11 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:51:14 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:51:14 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:52:55 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:52:55 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:52:57 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:52:57 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:52:57 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:52:57 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:52:57 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:52:57 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:52:59 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:52:59 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:52:59 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:52:59 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:53:02 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 09:53:03 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:53:07 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button/div  and  locator_type: xpath
+06/04/2020 09:53:07 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:53:08 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 09:53:10 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 09:54:41 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:54:41 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:54:43 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:54:43 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:54:43 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:54:43 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:54:43 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:54:43 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:54:45 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:54:45 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:54:45 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:54:45 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:54:48 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:54:49 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:54:53 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:54:53 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:54:55 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:54:55 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:54:55 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:54:55 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:54:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:54:56 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:54:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:54:57 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:55:47 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:55:48 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:55:50 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:55:50 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:55:50 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:55:50 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:55:50 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:55:50 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:55:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:55:56 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:55:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:55:56 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:56:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:56:00 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 09:56:01 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:56:03 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:56:06 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:56:06 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:56:32 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:56:32 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:56:34 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:56:34 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:56:34 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:56:34 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:56:34 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:56:34 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:56:46 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:56:46 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:56:46 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:56:46 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:56:49 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:56:50 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:56:52 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:56:54 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:56:57 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:56:57 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:57:16 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:57:16 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:57:18 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:57:18 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:57:18 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:57:19 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:57:19 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:57:19 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:57:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:57:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:57:22 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:57:22 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:57:28 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:57:28 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 09:57:33 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:57:33 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 09:57:34 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:57:36 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:57:39 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:57:39 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:57:59 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:57:59 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:58:01 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:58:01 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:58:01 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:58:01 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:58:01 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:58:01 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:58:08 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:58:08 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 09:58:08 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:58:08 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 09:58:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:58:11 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:58:14 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:58:14 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:58:15 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:58:15 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:58:16 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:58:16 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:59:02 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:59:02 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:59:04 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:59:04 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:59:04 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:59:05 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:59:05 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:59:05 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:59:09 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:59:09 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:59:09 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:59:09 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:59:11 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:59:11 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:59:15 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 09:59:15 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:59:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 09:59:18 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 09:59:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 09:59:18 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 09:59:19 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 09:59:19 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 09:59:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 09:59:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 09:59:43 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 09:59:43 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 09:59:45 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:59:45 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:59:45 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:59:45 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:59:45 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:59:45 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:59:49 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 09:59:49 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 09:59:49 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 09:59:49 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 09:59:51 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 09:59:51 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 09:59:53 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 09:59:53 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 09:59:56 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 09:59:56 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 10:00:00 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:00:00 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:00:12 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:00:12 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:00:14 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:00:14 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:00:14 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:00:14 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:00:14 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:00:14 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:00:15 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:00:16 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:00:16 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:00:16 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:00:18 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:00:18 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:00:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 10:00:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 10:00:23 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 10:00:23 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 10:00:26 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:00:26 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:00:39 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:00:39 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:00:42 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:00:42 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:00:42 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:00:42 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:00:42 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:00:42 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:00:45 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: Home and  locator_type: link
+06/04/2020 10:00:45 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: Home locator_type: link
+06/04/2020 10:00:47 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:00:47 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:00:54 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:00:54 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 10:00:59 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:00:59 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:01:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:01:02 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:01:05 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:01:05 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:04:28 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:04:28 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:04:30 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:04:30 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:04:30 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:04:30 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:04:30 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:04:30 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:04:33 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:04:33 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:04:33 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:04:33 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:04:35 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:04:35 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:04:39 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:04:39 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:04:41 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:04:42 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:04:42 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:04:42 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:04:43 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:04:43 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:04:44 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:04:44 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:05:05 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:05:06 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:05:08 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:05:08 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:05:08 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:05:08 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:05:08 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:05:08 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:05:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:05:10 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:05:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:05:10 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:05:13 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:05:13 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:05:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button/div  and  locator_type: xpath
+06/04/2020 10:05:17 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:05:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:05:20 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:05:50 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:05:50 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:05:52 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:05:52 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:05:52 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:05:52 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:05:52 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:05:52 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:05:55 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:05:56 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:05:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:05:56 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:05:59 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:05:59 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:06:05 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:06:05 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:06:06 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:06:08 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:08:37 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:08:37 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:08:39 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:08:39 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:08:39 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:08:40 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:08:40 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:08:40 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:08:45 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:08:45 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:08:45 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:08:45 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:08:48 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:08:49 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:08:53 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:08:53 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:08:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:08:54 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:10:01 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:10:02 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:10:04 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:10:04 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:10:04 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:10:04 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:10:04 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:10:04 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:10:07 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:10:07 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:10:07 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:10:07 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:10:09 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:10:09 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:10:15 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:10:15 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 10:10:29 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:10:29 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:10:31 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:10:31 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:10:31 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:10:31 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:10:31 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:10:31 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:10:35 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:10:35 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:10:35 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:10:35 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:10:37 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:10:37 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:10:41 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:10:42 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:10:44 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:10:44 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:10:44 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:10:44 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:10:45 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:10:45 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:10:46 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:10:46 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:16:22 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:16:22 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:16:24 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:16:24 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:16:24 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:16:24 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:16:24 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:16:24 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:16:28 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:16:28 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:16:28 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:16:28 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:16:31 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:16:31 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:16:35 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:16:36 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:16:38 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:16:38 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:16:38 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:16:38 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:16:39 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:16:39 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:16:40 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:16:40 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:18:19 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:18:19 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:18:21 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:18:22 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:18:22 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:18:22 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:18:22 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:18:22 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:18:25 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:18:25 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:18:26 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:18:26 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:18:29 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:18:29 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:18:45 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:18:45 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:18:47 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:18:47 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:18:47 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:18:47 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:18:47 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:18:47 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:18:52 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:18:52 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:18:53 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:18:53 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:18:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:18:56 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:19:38 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:19:38 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:19:40 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:19:40 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:19:40 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:19:40 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:19:40 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:19:40 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:19:45 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:19:45 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:19:45 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:19:45 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:19:48 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:19:49 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:19:53 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:19:53 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:19:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:19:56 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:20:49 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:20:49 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:20:51 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:20:51 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:20:51 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:20:51 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:20:51 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:20:51 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:21:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:21:00 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:21:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:21:00 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:21:03 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:21:03 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:21:05 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:21:05 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:21:06 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:21:06 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:21:21 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:21:21 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:21:23 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:21:23 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:21:23 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:21:24 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:21:24 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:21:24 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:21:25 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:21:25 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:21:25 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:21:25 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:21:28 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:21:29 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:21:31 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:21:31 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:21:32 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:21:34 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:21:47 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:21:47 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:21:49 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:21:50 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:21:50 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:21:50 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:21:50 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:21:50 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:21:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:21:54 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:21:54 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:21:54 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:21:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:21:58 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:22:00 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:22:00 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:22:01 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:22:01 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:22:19 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:22:19 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:22:21 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:22:21 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:22:21 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:22:21 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:22:21 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:22:21 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:22:23 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:22:23 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:22:23 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:22:23 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:22:25 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:22:25 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:22:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 10:22:27 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 10:22:30 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 10:22:30 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 10:22:33 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:22:33 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:23:05 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:23:05 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:23:07 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:23:07 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:23:07 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:23:07 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:23:07 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:23:07 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:23:12 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:23:12 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:23:12 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:23:12 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:23:14 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:23:15 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:23:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 10:23:18 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 10:23:19 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 10:23:19 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 10:23:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:23:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:23:33 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:23:33 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:23:35 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:23:35 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:23:35 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:23:35 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:23:35 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:23:35 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:23:38 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:23:38 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:23:38 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:23:39 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:23:43 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:23:43 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 10:23:48 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:23:48 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:23:49 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:23:51 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:23:54 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:23:54 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:24:38 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:24:38 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:24:40 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:24:41 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:24:41 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:24:41 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:24:41 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:24:41 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:24:43 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:24:43 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:24:43 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:24:43 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:24:45 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:24:45 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:24:48 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 10:24:48 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 10:24:51 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 10:24:51 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 10:24:54 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:24:54 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:25:14 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:25:15 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:25:17 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:25:17 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:25:17 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:25:17 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:25:17 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:25:17 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:25:21 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:25:21 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:25:21 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:25:21 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:25:26 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:25:26 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 10:25:31 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:25:31 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:25:32 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:25:34 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:25:37 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:25:37 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:25:59 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:25:59 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:26:01 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:26:01 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:26:01 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:26:02 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:26:02 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:26:02 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:26:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:26:10 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:26:10 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:26:11 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:26:15 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:26:15 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 10:26:20 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:26:20 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:26:21 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:26:23 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:26:26 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:26:26 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:26:58 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:26:58 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:27:00 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:27:01 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:27:01 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:27:01 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:27:01 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:27:01 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:27:02 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:27:02 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:27:03 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:27:04 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:27:08 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:27:08 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li locator_type: xpath
+06/04/2020 10:27:13 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:27:13 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:27:14 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:27:16 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:27:19 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:27:19 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:29:13 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:29:13 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:29:15 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:29:15 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:29:15 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:29:15 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:29:15 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:29:15 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:29:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:29:17 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:29:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:29:18 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:29:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 10:29:20 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:29:25 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:29:25 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:29:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:29:29 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:29:32 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:29:32 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:31:10 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:31:10 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:31:12 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:31:12 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:31:12 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:31:12 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:31:12 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:31:12 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:31:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:31:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:31:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:31:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:31:22 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 10:31:23 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:31:28 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:31:28 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:31:29 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:31:31 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:31:34 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:31:34 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:32:15 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:32:15 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:32:17 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:32:17 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:32:17 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:32:17 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:32:17 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:32:17 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:32:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:32:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:32:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:32:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:32:22 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 10:32:22 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:32:26 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:32:26 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:32:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:32:29 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:32:32 PM - AddRemoveSongsPlaylistsPage - INFO: element not found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:32:32 PM - AddRemoveSongsPlaylistsPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:33:09 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:33:09 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:33:11 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:33:11 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:33:11 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:33:11 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:33:11 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:33:11 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:33:15 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:33:15 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:33:15 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:33:15 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:33:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 10:33:17 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:33:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:33:18 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:33:19 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:33:19 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:33:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:33:21 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:33:42 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:33:42 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:33:46 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:33:46 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:33:46 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:33:46 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:33:46 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:33:46 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:33:50 PM - SearchPage - INFO: element not found with locator: Search and  locator_type: link
+06/04/2020 10:33:50 PM - SearchPage - INFO: Cannot click on the element with locator: Search locator_type: link
+06/04/2020 10:33:52 PM - SearchPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:33:52 PM - SearchPage - INFO: Cannot send data on the element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:33:56 PM - SearchPage - INFO: element not found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:33:56 PM - SearchPage - INFO: Cannot click on the element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:34:09 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:34:09 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:34:11 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:34:11 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:34:11 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:34:12 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:34:12 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:34:12 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:34:42 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:34:42 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:34:42 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:34:43 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:34:45 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:34:45 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:34:49 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li and  locator_type: xpath
+06/04/2020 10:34:49 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:34:51 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/section/ol/div/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:34:51 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:34:51 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:34:51 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:34:52 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:34:52 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:34:53 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:34:54 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:35:16 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:35:16 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:35:18 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:35:18 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:35:18 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:35:18 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:35:18 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:35:18 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:35:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 10:35:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 10:35:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: sayed_Test and  locator_type: link
+06/04/2020 10:35:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: sayed_Test locator_type: link
+06/04/2020 10:35:23 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li  and  locator_type: xpath
+06/04/2020 10:35:24 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:35:26 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:35:26 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:35:27 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[5] and  locator_type: xpath
+06/04/2020 10:35:27 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[5] locator_type: xpath
+06/04/2020 10:35:44 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:35:44 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:35:46 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:35:46 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:35:46 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:35:46 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:35:46 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:35:46 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:35:50 PM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/04/2020 10:35:50 PM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/04/2020 10:35:50 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/04/2020 10:35:50 PM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/04/2020 10:35:52 PM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:35:52 PM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/04/2020 10:35:55 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div and  locator_type: xpath
+06/04/2020 10:35:55 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div locator_type: xpath
+06/04/2020 10:35:56 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[2]/div[3] and  locator_type: xpath
+06/04/2020 10:35:56 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[2]/div[3] locator_type: xpath
+06/04/2020 10:35:57 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:35:57 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath
+06/04/2020 10:36:09 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 10:36:09 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 10:36:11 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 10:36:11 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 10:36:11 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 10:36:11 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 10:36:11 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 10:36:11 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 10:36:14 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 10:36:15 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: Home locator_type: link
+06/04/2020 10:36:15 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  and  locator_type: xpath
+06/04/2020 10:36:15 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[1]/div/div[7]/div/div/div[4]  locator_type: xpath
+06/04/2020 10:36:17 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 10:36:17 PM - AddRemoveSongsPlaylistsPage - INFO: Mouse Hovered on element
+06/04/2020 10:36:18 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  and  locator_type: xpath
+06/04/2020 10:36:18 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li/div[3]/div/div/button  locator_type: xpath
+06/04/2020 10:36:19 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/nav[1]/div[4] and  locator_type: xpath
+06/04/2020 10:36:19 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/nav[1]/div[4] locator_type: xpath
+06/04/2020 10:36:20 PM - AddRemoveSongsPlaylistsPage - INFO: element found with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div and  locator_type: xpath
+06/04/2020 10:36:20 PM - AddRemoveSongsPlaylistsPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div locator_type: xpath

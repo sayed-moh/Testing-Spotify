@@ -1,0 +1,14 @@
+06/04/2020 08:57:36 PM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/04/2020 08:57:36 PM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/04/2020 08:57:38 PM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:57:38 PM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:57:38 PM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:57:38 PM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:57:39 PM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:57:39 PM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:57:40 PM - LibraryPage - INFO: element found with locator: Your Library and  locator_type: link
+06/04/2020 08:57:40 PM - LibraryPage - INFO: Clicked on element with locator: Your Library locator_type: link
+06/04/2020 08:57:40 PM - LibraryPage - INFO: element found with locator: Albums and  locator_type: link
+06/04/2020 08:57:41 PM - LibraryPage - INFO: Clicked on element with locator: Albums locator_type: link
+06/04/2020 08:57:41 PM - LibraryPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[1]/div[1]/div/div/div[4] and  locator_type: xpath
+06/04/2020 08:57:41 PM - LibraryPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[1]/div[1]/div/div/div[4] locator_type: xpath

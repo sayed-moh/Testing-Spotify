@@ -1,0 +1,131 @@
+06/04/2020 08:58:34 PM - SeleniumDriver - INFO: element found with locator: Log In and  locator_type: link
+06/04/2020 08:58:35 PM - SeleniumDriver - INFO: Clicked on element with locator: Log In locator_type: link
+06/04/2020 08:58:36 PM - SeleniumDriver - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 08:58:36 PM - SeleniumDriver - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 08:58:36 PM - SeleniumDriver - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 08:58:36 PM - SeleniumDriver - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 08:58:36 PM - SeleniumDriver - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 08:58:36 PM - SeleniumDriver - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 08:58:40 PM - SeleniumDriver - INFO: element found with locator: Change password and  locator_type: link
+06/04/2020 08:58:41 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 08:58:42 PM - SeleniumDriver - INFO: element found with locator: change_password_validatePassword and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: element found with locator: change_password_new_password and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: element found with locator: change_password_check_password and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: element found with locator: change_password_validatePassword and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: Sent data on element with locator: change_password_validatePassword locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: element found with locator: change_password_new_password and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: Sent data on element with locator: change_password_new_password locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: element found with locator: change_password_check_password and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: Sent data on element with locator: change_password_check_password locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: element found with locator: change_password_submit and  locator_type: id
+06/04/2020 08:58:43 PM - SeleniumDriver - INFO: Clicked on element with locator: change_password_submit locator_type: id
+06/04/2020 09:00:16 PM - SeleniumDriver - INFO: element found with locator: Log In and  locator_type: link
+06/04/2020 09:00:18 PM - SeleniumDriver - INFO: Clicked on element with locator: Log In locator_type: link
+06/04/2020 09:00:19 PM - SeleniumDriver - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:00:19 PM - SeleniumDriver - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:00:19 PM - SeleniumDriver - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:00:19 PM - SeleniumDriver - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:00:19 PM - SeleniumDriver - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:00:19 PM - SeleniumDriver - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:00:23 PM - SeleniumDriver - INFO: element found with locator: Change password and  locator_type: link
+06/04/2020 09:00:24 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_validatePassword and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: clear data from element with locator: change_password_validatePassword locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_new_password and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: clear data from element with locator: change_password_new_password locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_check_password and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: clear data from element with locator: change_password_check_password locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_validatePassword and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: Sent data on element with locator: change_password_validatePassword locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_new_password and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: Sent data on element with locator: change_password_new_password locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_check_password and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: Sent data on element with locator: change_password_check_password locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: element found with locator: change_password_submit and  locator_type: id
+06/04/2020 09:00:26 PM - SeleniumDriver - INFO: Clicked on element with locator: change_password_submit locator_type: id
+06/04/2020 09:11:13 PM - SeleniumDriver - INFO: element found with locator: Log In and  locator_type: link
+06/04/2020 09:11:13 PM - SeleniumDriver - INFO: Clicked on element with locator: Log In locator_type: link
+06/04/2020 09:11:14 PM - SeleniumDriver - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:11:15 PM - SeleniumDriver - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:11:15 PM - SeleniumDriver - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:11:15 PM - SeleniumDriver - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:11:15 PM - SeleniumDriver - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:11:15 PM - SeleniumDriver - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:11:17 PM - SeleniumDriver - INFO: element found with locator: svelte-1gcdbl9 and  locator_type: class
+06/04/2020 09:11:18 PM - SeleniumDriver - INFO: Clicked on element with locator: svelte-1gcdbl9 locator_type: class
+06/04/2020 09:11:19 PM - SeleniumDriver - INFO: element found with locator: segmented-desktop-launch and  locator_type: id
+06/04/2020 09:11:21 PM - SeleniumDriver - INFO: Clicked on element with locator: segmented-desktop-launch locator_type: id
+06/04/2020 09:11:26 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section/section/div/section[2]/div/div[2]/div/div/div[3]  and  locator_type: xpath
+06/04/2020 09:11:26 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:11:30 PM - SeleniumDriver - INFO: element found with locator: Test and  locator_type: link
+06/04/2020 09:11:30 PM - SeleniumDriver - INFO: Clicked on element with locator: Test locator_type: link
+06/04/2020 09:11:32 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 09:11:32 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:11:35 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[3]/div/li and  locator_type: xpath
+06/04/2020 09:11:36 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:11:39 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[5]/div/li and  locator_type: xpath
+06/04/2020 09:11:39 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:11:39 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/button and  locator_type: xpath
+06/04/2020 09:11:39 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/button locator_type: xpath
+06/04/2020 09:11:49 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button and  locator_type: xpath
+06/04/2020 09:11:49 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button locator_type: xpath
+06/04/2020 09:11:59 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button and  locator_type: xpath
+06/04/2020 09:11:59 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button locator_type: xpath
+06/04/2020 09:12:09 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button and  locator_type: xpath
+06/04/2020 09:12:09 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button locator_type: xpath
+06/04/2020 09:12:19 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button and  locator_type: xpath
+06/04/2020 09:12:19 PM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[2]/div/div[1]/div[4]/button locator_type: xpath
+06/04/2020 09:13:11 PM - SeleniumDriver - INFO: element found with locator: Log In and  locator_type: link
+06/04/2020 09:13:13 PM - SeleniumDriver - INFO: Clicked on element with locator: Log In locator_type: link
+06/04/2020 09:13:14 PM - SeleniumDriver - INFO: element found with locator: login-username and  locator_type: id
+06/04/2020 09:13:14 PM - SeleniumDriver - INFO: Sent data on element with locator: login-username locator_type: id
+06/04/2020 09:13:14 PM - SeleniumDriver - INFO: element found with locator: login-password and  locator_type: id
+06/04/2020 09:13:14 PM - SeleniumDriver - INFO: Sent data on element with locator: login-password locator_type: id
+06/04/2020 09:13:14 PM - SeleniumDriver - INFO: element found with locator: login-button and  locator_type: id
+06/04/2020 09:13:14 PM - SeleniumDriver - INFO: Clicked on element with locator: login-button locator_type: id
+06/04/2020 09:13:16 PM - SeleniumDriver - INFO: element found with locator: svelte-1gcdbl9 and  locator_type: class
+06/04/2020 09:13:17 PM - SeleniumDriver - INFO: Clicked on element with locator: svelte-1gcdbl9 locator_type: class
+06/04/2020 09:13:20 PM - SeleniumDriver - INFO: element found with locator: segmented-desktop-launch and  locator_type: id
+06/04/2020 09:13:21 PM - SeleniumDriver - INFO: Clicked on element with locator: segmented-desktop-launch locator_type: id
+06/04/2020 09:13:27 PM - SeleniumDriver - INFO: element found with locator: Mood Booster and  locator_type: link
+06/04/2020 09:13:28 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:28 PM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/04/2020 09:13:28 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/04/2020 09:13:28 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 09:13:29 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:34 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/04/2020 09:13:34 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:35 PM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/04/2020 09:13:35 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/04/2020 09:13:35 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[2]/div/li and  locator_type: xpath
+06/04/2020 09:13:36 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:41 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/04/2020 09:13:41 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:42 PM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/04/2020 09:13:42 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/04/2020 09:13:42 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[3]/div/li and  locator_type: xpath
+06/04/2020 09:13:43 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:48 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/04/2020 09:13:48 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:49 PM - SeleniumDriver - INFO: element found with locator: Liked Songs and  locator_type: link
+06/04/2020 09:13:49 PM - SeleniumDriver - INFO: Clicked on element with locator: Liked Songs locator_type: link
+06/04/2020 09:13:51 PM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/04/2020 09:13:51 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/04/2020 09:13:51 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[3]/div/li and  locator_type: xpath
+06/04/2020 09:13:52 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:57 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/04/2020 09:13:57 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:13:58 PM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/04/2020 09:13:58 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/04/2020 09:13:58 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[2]/div/li and  locator_type: xpath
+06/04/2020 09:13:58 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:14:03 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/04/2020 09:14:04 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:14:05 PM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/04/2020 09:14:05 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/04/2020 09:14:05 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/04/2020 09:14:05 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:14:10 PM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/04/2020 09:14:11 PM - SeleniumDriver - INFO: Mouse Hovered on element
+06/04/2020 09:14:12 PM - SeleniumDriver - INFO: element found with locator: Home and  locator_type: link
+06/04/2020 09:14:12 PM - SeleniumDriver - INFO: Clicked on element with locator: Home locator_type: link
