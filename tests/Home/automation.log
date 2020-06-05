@@ -129,3 +129,53 @@
 06/04/2020 09:14:11 PM - SeleniumDriver - INFO: Mouse Hovered on element
 06/04/2020 09:14:12 PM - SeleniumDriver - INFO: element found with locator: Home and  locator_type: link
 06/04/2020 09:14:12 PM - SeleniumDriver - INFO: Clicked on element with locator: Home locator_type: link
+06/06/2020 12:08:30 AM - SeleniumDriver - INFO: element found with locator: Log In and  locator_type: link
+06/06/2020 12:08:32 AM - SeleniumDriver - INFO: Clicked on element with locator: Log In locator_type: link
+06/06/2020 12:08:33 AM - SeleniumDriver - INFO: element found with locator: login-username and  locator_type: id
+06/06/2020 12:08:33 AM - SeleniumDriver - INFO: Sent data on element with locator: login-username locator_type: id
+06/06/2020 12:08:33 AM - SeleniumDriver - INFO: element found with locator: login-password and  locator_type: id
+06/06/2020 12:08:33 AM - SeleniumDriver - INFO: Sent data on element with locator: login-password locator_type: id
+06/06/2020 12:08:33 AM - SeleniumDriver - INFO: element found with locator: login-button and  locator_type: id
+06/06/2020 12:08:33 AM - SeleniumDriver - INFO: Clicked on element with locator: login-button locator_type: id
+06/06/2020 12:08:35 AM - SeleniumDriver - INFO: element found with locator: svelte-1gcdbl9 and  locator_type: class
+06/06/2020 12:08:36 AM - SeleniumDriver - INFO: Clicked on element with locator: svelte-1gcdbl9 locator_type: class
+06/06/2020 12:08:39 AM - SeleniumDriver - INFO: element found with locator: segmented-desktop-launch and  locator_type: id
+06/06/2020 12:08:39 AM - SeleniumDriver - INFO: Clicked on element with locator: segmented-desktop-launch locator_type: id
+06/06/2020 12:08:43 AM - SeleniumDriver - INFO: element found with locator: Test and  locator_type: link
+06/06/2020 12:08:43 AM - SeleniumDriver - INFO: Clicked on element with locator: Test locator_type: link
+06/06/2020 12:08:43 AM - SeleniumDriver - INFO: Waiting for maximum :: 15 :: seconds for element to be clickable
+06/06/2020 12:08:43 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/06/2020 12:08:43 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[1]/div/li and  locator_type: xpath
+06/06/2020 12:08:44 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:08:49 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/06/2020 12:08:49 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:08:50 AM - SeleniumDriver - INFO: element found with locator: Liked Songs and  locator_type: link
+06/06/2020 12:08:50 AM - SeleniumDriver - INFO: Clicked on element with locator: Liked Songs locator_type: link
+06/06/2020 12:08:55 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/06/2020 12:08:56 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:08:59 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/06/2020 12:08:59 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:09:02 AM - SeleniumDriver - INFO: element found with locator: Amr Diab and  locator_type: link
+06/06/2020 12:09:02 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:09:05 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/button[2] and  locator_type: xpath
+06/06/2020 12:09:06 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:09:07 AM - SeleniumDriver - INFO: element found with locator: Your Library and  locator_type: link
+06/06/2020 12:09:07 AM - SeleniumDriver - INFO: Clicked on element with locator: Your Library locator_type: Link
+06/06/2020 12:09:08 AM - SeleniumDriver - INFO: element found with locator: Artists and  locator_type: link
+06/06/2020 12:09:08 AM - SeleniumDriver - INFO: Clicked on element with locator: Artists locator_type: Link
+06/06/2020 12:09:09 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[2]/button[1] and  locator_type: xpath
+06/06/2020 12:09:09 AM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[2]/button[1] locator_type: xpath
+06/06/2020 12:09:10 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[2]/button[1] and  locator_type: xpath
+06/06/2020 12:09:10 AM - SeleniumDriver - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[2]/button[1] locator_type: xpath
+06/06/2020 12:09:13 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/button[2] and  locator_type: xpath
+06/06/2020 12:09:13 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:09:14 AM - SeleniumDriver - INFO: element found with locator: Your Library and  locator_type: link
+06/06/2020 12:09:14 AM - SeleniumDriver - INFO: Clicked on element with locator: Your Library locator_type: Link
+06/06/2020 12:09:15 AM - SeleniumDriver - INFO: element found with locator: Artists and  locator_type: link
+06/06/2020 12:09:15 AM - SeleniumDriver - INFO: Clicked on element with locator: Artists locator_type: Link
+06/06/2020 12:09:16 AM - SeleniumDriver - INFO: element found with locator: Liked Songs and  locator_type: link
+06/06/2020 12:09:16 AM - SeleniumDriver - INFO: Clicked on element with locator: Liked Songs locator_type: link
+06/06/2020 12:09:19 AM - SeleniumDriver - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[3]/footer/div/div[1]/div/div[3]/button and  locator_type: xpath
+06/06/2020 12:09:20 AM - SeleniumDriver - INFO: Mouse Hovered on element
+06/06/2020 12:09:21 AM - SeleniumDriver - INFO: element found with locator: Home and  locator_type: link
+06/06/2020 12:09:21 AM - SeleniumDriver - INFO: Clicked on element with locator: Home locator_type: link

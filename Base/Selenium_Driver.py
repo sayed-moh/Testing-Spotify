@@ -58,7 +58,6 @@ class SeleniumDriver:
         except:
             self.Log.info("Cannot click on the element with locator: " + locator +
                           " locator_type: " + locator_type)
-            print_stack()
 
     def send_keys(self, data, locator, locator_type="id"):
         try:
@@ -69,7 +68,6 @@ class SeleniumDriver:
         except:
             self.Log.info("Cannot send data on the element with locator: " + locator +
                           " locator_type: " + locator_type)
-            print_stack()
 
     def hover_song(self, locator, locator_type="xpath", button=""):
         try:
@@ -83,8 +81,7 @@ class SeleniumDriver:
             actions.move_to_element(song).click().perform()
         except:
             self.Log.info("Cannot send data on the element with locator: " + locator +
-                  " locator_type: " + locator_type)
-            print_stack()
+                          " locator_type: " + locator_type)
 
     def hover(self, locator, locator_type="xpath"):
         try:
@@ -96,8 +93,7 @@ class SeleniumDriver:
             self.Log.info("Mouse Hovered on element")
         except:
             self.Log.info("Cannot send data on the element with locator: " + locator +
-                  " locator_type: " + locator_type)
-            print_stack()
+                          " locator_type: " + locator_type)
 
     def hover_listed_song(self, locator, locator_type="xpath"):
         try:
@@ -108,8 +104,7 @@ class SeleniumDriver:
             self.Log.info("Mouse Hovered on element")
         except:
             self.Log.info("Cannot send data on the element with locator: " + locator +
-                  " locator_type: " + locator_type)
-            print_stack()
+                          " locator_type: " + locator_type)
 
     def select_item(self, data, locator, locator_type="id"):
         try:
@@ -119,8 +114,7 @@ class SeleniumDriver:
             self.Log.info("Sent data on element with locator: " + locator + " locator_type: " + locator_type)
         except:
             self.Log.info("Cannot send data on the element with locator: " + locator +
-                  " locator_type: " + locator_type)
-            # print_stack()
+                          " locator_type: " + locator_type)
 
     def clears(self, locator, locator_type="id"):
         try:
@@ -129,8 +123,7 @@ class SeleniumDriver:
             self.Log.info("clear data from element with locator: " + locator + " locator_type: " + locator_type)
         except:
             self.Log.info("Cannot clear data from the element with locator: " + locator +
-                  " locator_type: " + locator_type)
-        # print_stack()
+                          " locator_type: " + locator_type)
 
     def is_element_present(self, locator, locator_type="id"):
         try:
@@ -163,7 +156,7 @@ class SeleniumDriver:
         try:
             by_type = self.get_by_type(locator_type)
             self.Log.info("Waiting for maximum :: " + str(timeout) +
-                  " :: seconds for element to be clickable")
+                          " :: seconds for element to be clickable")
             wait = WebDriverWait(self.Driver, timeout, poll_frequency=poll_frequency,
                                  ignored_exceptions=[NoSuchElementException,
                                                      ElementNotVisibleException,
@@ -172,7 +165,6 @@ class SeleniumDriver:
             self.Log.info("Element appeared on the web page")
         except:
             self.Log.info("Element not appeared on the web page")
-            print_stack()
         return element
 
     def screen_shot1(self, result_message):
@@ -212,4 +204,3 @@ class SeleniumDriver:
             self.Log.info("Screenshot save to directory: " + destination_file)
         except:
             self.Log.error("### Exception Occurred when taking screenshot")
-            # print_stack()
