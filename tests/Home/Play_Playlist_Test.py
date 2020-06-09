@@ -1,5 +1,5 @@
 import time
-from Pages.Home.PlayPlaylist import PlayPlaylist
+from Pages.Home.Play_Playlist import PlayPlaylist
 import unittest
 import pytest
 

@@ -21,7 +21,7 @@ class AddRemoveSongsPlaylistsPage(SeleniumDriver):
                       "1]/div/li/div[3]/div/div/button"  #
     add_to_playlist = "/html/body/div[4]/div/nav[1]/div[4]"  #
     choose_playlist = "/html/body/div[4]/div/div[3]/div/div[2]/div[1]/div/div/div/div/div[1]/div"  #
-    upper_options = "/html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button/div"
+    upper_options = "/html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[3]/div/div/button"
     upper_add_playlist = "/html/body/div[4]/div/nav[2]/div[3]"
     first_song_to_remove = "/html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/section[1]/div[4]/section/ol/div[" \
                            "1]/div/li "
@@ -77,7 +77,7 @@ class AddRemoveSongsPlaylistsPage(SeleniumDriver):
 
     def add_playlist_from_upper_options(self):
         time.sleep(2)
-        self.element_click(self.upper_options, "xpath")
+        self.hover(self.upper_options, "xpath")
         time.sleep(1)
         self.element_click(self.upper_add_playlist, "xpath")
         time.sleep(1)

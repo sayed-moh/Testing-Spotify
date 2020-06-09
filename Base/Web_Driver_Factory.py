@@ -19,9 +19,9 @@ class WebDriverFactory:
                 executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\ geckodriver.exe")
         elif self.browser == "chrome":
             # Set chrome driver
-            driver = webdriver.Chrome(executable_path="E:\\software\\web\\drivers\\chromedriver.exe")
+            driver = webdriver.Chrome(executable_path="C:\\Users\\Mohamed Gaber\\Desktop\\SeleniumWebDriver\\chromedriver_win32\\chromedriver.exe")
         else:
-            driver = webdriver.Chrome(executable_path="E:\\software\\web\\drivers\\chromedriver.exe")
+            driver = webdriver.Chrome(executable_path="C:\\Users\\Mohamed Gaber\\Desktop\\SeleniumWebDriver\\chromedriver_win32\\chromedriver.exe")
         # Setting driver Implicit Time out for An Element
         driver.implicitly_wait(2)
         # Maximize the window
@@ -42,9 +42,9 @@ class WebDriverFactory:
                 executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\ geckodriver.exe")
         elif self.browser == "chrome":
             # Set chrome driver
-            driver = webdriver.Chrome(executable_path="E:\\software\\web\\drivers\\chromedriver.exe")
+            driver = webdriver.Chrome(executable_path="C:\\Users\\Mohamed Gaber\\Desktop\\SeleniumWebDriver\\chromedriver_win32\\chromedriver.exe")
         else:
-            driver = webdriver.Chrome(executable_path="E:\\software\\web\\drivers\\chromedriver.exe")
+            driver = webdriver.Chrome(executable_path="C:\\Users\\Mohamed Gaber\\Desktop\\SeleniumWebDriver\\chromedriver_win32\\chromedriver.exe")
         # Setting driver Implicit Time out for An Element
         driver.implicitly_wait(2)
         # Maximize the window

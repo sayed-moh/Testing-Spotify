@@ -3,7 +3,7 @@ from Base.Web_Driver_Factory import WebDriverFactory
 from Pages.Home.Log_in import LogInPage
 from Pages.Login.LoginPage import LoginPage
 
-
+Password = "1234567891011"
 #########################################################################################
 @pytest.yield_fixture()
 def Login_setUp():
@@ -58,7 +58,7 @@ def oneTime_Login_SetUp_Account(request, browser):
     wdf1 = WebDriverFactory(browser)
     driver = wdf1.get_web_driver_instance_home()
     lp1 = LogInPage(driver)
-    lp1.login_password("modyseka@gmail.com", "1234567891011")
+    lp1.login_password("modyseka@gmail.com", Password)
 
     if request.cls is not None:
         request.cls.Driver = driver
@@ -74,7 +74,7 @@ def oneTime_Login_SetUp_Edit(request, browser):
     wdf1 = WebDriverFactory(browser)
     driver = wdf1.get_web_driver_instance_home()
     lp1 = LogInPage(driver)
-    lp1.login_edit("modyseka@gmail.com", "1234567891011")
+    lp1.login_edit("modyseka@gmail.com", Password)
 
     if request.cls is not None:
         request.cls.Driver = driver
@@ -90,7 +90,7 @@ def oneTime_Login_SetUp_Webplayer(request, browser):
     wdf1 = WebDriverFactory(browser)
     driver = wdf1.get_web_driver_instance_home()
     lp1 = LogInPage(driver)
-    lp1.login_webpalyer("modyseka@gmail.com", "1234567891011")
+    lp1.login_webpalyer("modyseka@gmail.com", Password)
 
     if request.cls is not None:
         request.cls.Driver = driver

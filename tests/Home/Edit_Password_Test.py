@@ -13,7 +13,7 @@ class TestEditPassword(unittest.TestCase):
         self.Email = "modyseka@gmail.com"
         self.CP = ChangePassword(self.Driver)
 
-    def test_Change_Password_Scenario_1(self):
+    def test_Change_Password_Scenario(self):
         self.CP.change_password(" ", " ", " ")
         # try to send empty spaces it will refuse it
         time.sleep(1)

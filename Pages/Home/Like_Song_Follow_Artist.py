@@ -121,3 +121,19 @@ class Like_Follow(SeleniumDriver):
         self.hover(self.Like)
         time.sleep(1)
         self.click_home()
+
+    def like_stress_test(self):
+        time.sleep(4)
+        self.click_on_playlist()
+        self.hover_listed_song(self.Song)
+        time.sleep(3)
+        self.hover(self.Like)
+        time.sleep(1)
+        self.click_liked_list()
+        time.sleep(3)
+        i = 0
+        while i < 15:
+            self.hover(self.Like)
+            time.sleep(0.2)
+            i = i + 1
+
