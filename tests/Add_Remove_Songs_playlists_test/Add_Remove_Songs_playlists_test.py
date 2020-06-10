@@ -43,8 +43,9 @@ class TestAddRemove(unittest.TestCase):
         self.Search.send_in_search_tab("sting ya king")
         time.sleep(2)
         self.Search.click_searched_song()
-        time.sleep(1)
+        time.sleep(2)
         self.Add.add_playlist_from_upper_options()
+        time.sleep(1)
 
     def test_e_home_song(self):
         time.sleep(1)

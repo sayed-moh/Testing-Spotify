@@ -1587,3 +1587,35 @@
 06/09/2020 03:01:52 AM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
 06/09/2020 03:01:53 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
 06/09/2020 03:01:53 AM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/10/2020 01:31:37 AM - LoginPage - INFO: element found with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] and  locator_type: xpath
+06/10/2020 01:31:37 AM - LoginPage - INFO: Clicked on element with locator: /html/body/div[3]/div/div[2]/div[1]/header/div[4]/button[2] locator_type: xpath
+06/10/2020 01:31:39 AM - LoginPage - INFO: element found with locator: login-username and  locator_type: id
+06/10/2020 01:31:39 AM - LoginPage - INFO: Sent data on element with locator: login-username locator_type: id
+06/10/2020 01:31:39 AM - LoginPage - INFO: element found with locator: login-password and  locator_type: id
+06/10/2020 01:31:39 AM - LoginPage - INFO: Sent data on element with locator: login-password locator_type: id
+06/10/2020 01:31:39 AM - LoginPage - INFO: element found with locator: login-button and  locator_type: id
+06/10/2020 01:31:40 AM - LoginPage - INFO: Clicked on element with locator: login-button locator_type: id
+06/10/2020 01:31:41 AM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/10/2020 01:31:41 AM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/10/2020 01:31:43 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/10/2020 01:31:43 AM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/10/2020 01:31:44 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/10/2020 01:31:44 AM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/10/2020 01:31:46 AM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/10/2020 01:31:46 AM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/10/2020 01:31:47 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/10/2020 01:31:47 AM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/10/2020 01:31:48 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/10/2020 01:31:48 AM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/10/2020 01:32:09 AM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/10/2020 01:32:09 AM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/10/2020 01:32:09 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/10/2020 01:32:10 AM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/10/2020 01:32:11 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/10/2020 01:32:11 AM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath
+06/10/2020 01:32:13 AM - SearchPage - INFO: element found with locator: Search and  locator_type: link
+06/10/2020 01:32:13 AM - SearchPage - INFO: Clicked on element with locator: Search locator_type: link
+06/10/2020 01:32:13 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input and  locator_type: xpath
+06/10/2020 01:32:13 AM - SearchPage - INFO: Sent data on element with locator: /html/body/div[4]/div/div[2]/div[1]/header/div[3]/div/div/input locator_type: xpath
+06/10/2020 01:32:14 AM - SearchPage - INFO: element found with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  and  locator_type: xpath
+06/10/2020 01:32:14 AM - SearchPage - INFO: Clicked on element with locator: /html/body/div[4]/div/div[2]/div[4]/div[1]/div/div[2]/div/div/div/section[1]/div/div[2]/div/div/div/div[4]  locator_type: xpath

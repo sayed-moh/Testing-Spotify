@@ -76,9 +76,9 @@ class AddRemoveSongsPlaylistsPage(SeleniumDriver):
         time.sleep(1)
 
     def add_playlist_from_upper_options(self):
-        time.sleep(2)
+        time.sleep(5)
         self.hover(self.upper_options, "xpath")
-        time.sleep(1)
+        time.sleep(2)
         self.element_click(self.upper_add_playlist, "xpath")
         time.sleep(1)
         self.element_click(self.choose_playlist, "xpath")
